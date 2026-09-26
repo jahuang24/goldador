@@ -32,6 +32,7 @@
       "ay93546",
       "bmood25",
       "brady-q",
+      "cahove",
       "carolyne-chiang",
       "cheezypegasus",
       "csongfm",
@@ -102,6 +103,7 @@
       "carolyne",
       "cesong",
       "charlie3",
+      "chove",
       "darisan",
       "davidx2",
       "dhzhou",
@@ -178,6 +180,32 @@
       ],
       "create_oidc_clients": false
     },
+    "brieflyai": {
+      "name": "Briefly AI",
+      "description": "Briefly allows users to curate multiple newsletters\nbased on their interests like in sports or finance.\nAn AI will automatically generate the newsletter described and email\nit to users at user-specified times.\n",
+      "members": {
+        "github_usernames": [
+          "cahove"
+        ],
+        "andrew_ids": [
+          "chove"
+        ]
+      },
+      "admins": {
+        "github_usernames": [
+          "cahove"
+        ],
+        "andrew_ids": [
+          "chove"
+        ]
+      },
+      "repos": [
+        "ai-newsletter"
+      ],
+      "create_oidc_clients": false,
+      "website": "",
+      "server": ""
+    },
     "cmu-bulletin": {
       "name": "CMU Bulletin",
       "description": "Your one-stop shop for everything happening at Carnegie Mellon. Never miss an event on campus again.\n",
@@ -238,12 +266,14 @@
           "SamEthanMathew",
           "Yuxiang-Huang",
           "a-varigonda",
+          "cahove",
           "dishon949",
           "hanabenko",
           "ziwei-che"
         ],
         "andrew_ids": [
           "avarigon",
+          "chove",
           "hbenko",
           "ndishon",
           "semathew",
