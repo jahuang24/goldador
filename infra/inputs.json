@@ -13,15 +13,19 @@
     ],
     "non_admins": [
       "AA2026",
+      "Aaron123456789123456789",
       "EnspikondPlusPlus",
       "EthanZ2007",
       "HarishSenthilkumar",
       "JiayiH08",
+      "KevinL135",
       "KeyaanMatrix",
       "NainaEnock",
       "Yutai007",
+      "a-gupta123",
       "a-varigonda",
       "aanya21gupta",
+      "aapin1",
       "amishigupta",
       "angely32",
       "appleorange",
@@ -34,17 +38,22 @@
       "brady-q",
       "cahove",
       "carolyne-chiang",
+      "charansr",
       "cheezypegasus",
       "csongfm",
       "davidx2-gif",
       "didikana",
       "dishon949",
+      "duallyhazard",
       "dzhou08",
       "eitankrajewski",
+      "ethanliu2026",
+      "faribahnuha",
       "graceguo16",
       "henhen1235",
       "hnaracodes",
       "ipyoon",
+      "jahuang24",
       "janek0420",
       "justinwu80",
       "k3t6hup",
@@ -52,22 +61,32 @@
       "khushij312",
       "klz037",
       "kzz9984",
+      "lordkarv",
+      "mambabhi",
+      "maxwellliu07",
+      "mbatkhuu",
+      "nicholascui225",
+      "nihal-j",
       "noe2971",
       "nosleep32",
+      "pnimmaga-jpg",
       "rarangil",
       "rayank7674",
       "riishp",
-      "rocketrules",
       "rohansp007",
+      "ryanwong05",
       "s520y",
       "sagelu1",
+      "sahilmmehta",
       "samad2084",
       "sdavidi-ai",
+      "shainag03",
       "sophiez3",
       "sophiezxh",
       "stingray8",
       "szzxt",
       "tejaschaudhari131",
+      "the-srianeesh",
       "veriivy",
       "victoriasun2007",
       "ziwei-che"
@@ -88,12 +107,15 @@
     "non_admins": [
       "aahans",
       "aanyag2",
+      "aaronch2",
       "aayana",
+      "abhii",
       "abthakka",
       "amaganti",
       "amishig",
       "angely",
-      "aravagar",
+      "appinto",
+      "aryangup",
       "audreyya",
       "audreyz2",
       "avarigon",
@@ -104,39 +126,55 @@
       "cesong",
       "charlie3",
       "chove",
+      "csridhar",
       "darisan",
       "davidx2",
       "dhzhou",
       "ekrajews",
+      "ethanlil",
       "ethanzhe",
+      "fmn",
       "hhxu",
       "hnara",
       "hsenthil",
       "ipae",
       "ivanz",
       "janekim",
+      "jarretth",
       "jiayihu",
       "jzwu",
       "kasubash",
       "kelseyli",
+      "kevinlu3",
       "keyaans",
       "khushij",
       "ktan2",
+      "kvattem",
       "kzzhao",
       "liweix",
+      "mbatkhuu",
+      "myliu2",
       "nainae",
       "nchandy",
+      "ncui2",
       "ndishon",
+      "nihaljos",
+      "pnimmaga",
       "rarangil",
+      "renfeirw",
       "rkha",
       "rpachava",
       "rparthip",
       "sabellah",
       "sagelu",
+      "sahilm",
       "samad",
       "sdavidi",
       "seany2",
+      "sgli",
+      "shainag",
       "sophiez3",
+      "srianeek",
       "susanzuo",
       "szhang4",
       "tchaudha",
@@ -156,15 +194,17 @@
           "a-varigonda",
           "ay93546",
           "brady-q",
-          "rocketrules",
-          "rohansp007"
+          "pnimmaga-jpg",
+          "rohansp007",
+          "the-srianeesh"
         ],
         "andrew_ids": [
-          "aravagar",
           "audreyya",
           "avarigon",
           "bquo",
-          "rparthip"
+          "pnimmaga",
+          "rparthip",
+          "srianeek"
         ]
       },
       "admins": {
@@ -185,10 +225,14 @@
       "description": "Briefly allows users to curate multiple newsletters\nbased on their interests like in sports or finance.\nAn AI will automatically generate the newsletter described and email\nit to users at user-specified times.\n",
       "members": {
         "github_usernames": [
+          "Aaron123456789123456789",
+          "KevinL135",
           "cahove"
         ],
         "andrew_ids": [
-          "chove"
+          "aaronch2",
+          "chove",
+          "kevinlu3"
         ]
       },
       "admins": {
@@ -206,16 +250,98 @@
       "website": "",
       "server": ""
     },
+    "busy-tartan": {
+      "name": "BusyTartan",
+      "description": "Real-time occupancy tracking for busy CMU campus spots, starting with the mailroom.",
+      "members": {
+        "github_usernames": [
+          "AA2026",
+          "HarishSenthilkumar",
+          "a-gupta123",
+          "arjunmaganti",
+          "charansr",
+          "hnaracodes",
+          "rarangil"
+        ],
+        "andrew_ids": [
+          "aayana",
+          "amaganti",
+          "aryangup",
+          "csridhar",
+          "hnara",
+          "hsenthil",
+          "rarangil"
+        ]
+      },
+      "admins": {
+        "github_usernames": [
+          "rarangil"
+        ],
+        "andrew_ids": [
+          "rarangil"
+        ]
+      },
+      "repos": [
+        "BusyTartan"
+      ],
+      "create_oidc_clients": false
+    },
+    "cmu-blockparty": {
+      "name": "BlockParty",
+      "description": "A way to track your meal block usage progress. This would help\n                you track if you are behind or ahead of schedule, and you can eat\n                accordingly. Integration with SIO will allow users to check past\n                orders + receipts.",
+      "members": {
+        "github_usernames": [
+          "JiayiH08",
+          "csongfm",
+          "eitankrajewski",
+          "henhen1235",
+          "justinwu80",
+          "klz037",
+          "lordkarv",
+          "rayank7674",
+          "s520y",
+          "sdavidi-ai"
+        ],
+        "andrew_ids": [
+          "cesong",
+          "ekrajews",
+          "hhxu",
+          "jiayihu",
+          "jzwu",
+          "kelseyli",
+          "kvattem",
+          "rkha",
+          "sdavidi",
+          "seany2"
+        ]
+      },
+      "admins": {
+        "github_usernames": [
+          "henhen1235",
+          "s520y"
+        ],
+        "andrew_ids": [
+          "hhxu",
+          "seany2"
+        ]
+      },
+      "repos": [
+        "BlockParty"
+      ],
+      "create_oidc_clients": true
+    },
     "cmu-bulletin": {
       "name": "CMU Bulletin",
       "description": "Your one-stop shop for everything happening at Carnegie Mellon. Never miss an event on campus again.\n",
       "members": {
         "github_usernames": [
           "angely32",
+          "victoriasun2007",
           "ziwei-che"
         ],
         "andrew_ids": [
           "angely",
+          "vmsun",
           "ziweiche"
         ]
       },
@@ -233,6 +359,62 @@
       "create_oidc_clients": true,
       "website": "cmubulletin.com",
       "server": "your-team-server.com"
+    },
+    "cmu-livespace": {
+      "name": "cmu-livespace",
+      "description": "Privacy-preserving real-time space monitoring using ESP32, mmWave radar, and acoustic sensing to estimate ambient noise and crowd activity in shared environments.",
+      "members": {
+        "github_usernames": [
+          "appleorange",
+          "kevin20074321",
+          "sagelu1"
+        ],
+        "andrew_ids": [
+          "ktan2",
+          "sabellah",
+          "sagelu"
+        ]
+      },
+      "admins": {
+        "github_usernames": [
+          "kevin20074321"
+        ],
+        "andrew_ids": [
+          "ktan2"
+        ]
+      },
+      "repos": [
+        "CMU-Livespace"
+      ],
+      "create_oidc_clients": false
+    },
+    "cmu-research": {
+      "name": "CMU Research",
+      "description": "CMU Research Team",
+      "members": {
+        "github_usernames": [
+          "jahuang24",
+          "nicholascui225"
+        ],
+        "andrew_ids": [
+          "jarretth",
+          "ncui2"
+        ]
+      },
+      "admins": {
+        "github_usernames": [
+          "jahuang24",
+          "nicholascui225"
+        ],
+        "andrew_ids": [
+          "jarretth",
+          "ncui2"
+        ]
+      },
+      "repos": [
+        "CMUResearch"
+      ],
+      "create_oidc_clients": false
     },
     "cmu-scottytasks": {
       "name": "CMU-ScottyTasks",
@@ -258,26 +440,108 @@
       ],
       "create_oidc_clients": false
     },
+    "cmumaps-mobile": {
+      "name": "CMU Maps Mobile",
+      "description": "Mobile app for CMU Maps.",
+      "members": {
+        "github_usernames": [
+          "Yuxiang-Huang"
+        ],
+        "andrew_ids": [
+          "yh4"
+        ]
+      },
+      "admins": {
+        "github_usernames": [
+          "Yuxiang-Huang"
+        ],
+        "andrew_ids": [
+          "yh4"
+        ]
+      },
+      "repos": [
+        "cmumaps-mobile"
+      ],
+      "create_oidc_clients": true,
+      "website": "",
+      "server": "mobile.maps.scottylabs.org"
+    },
+    "go": {
+      "name": "Go",
+      "description": "Link shortener: go.scottylabs.org",
+      "members": {
+        "github_usernames": [
+          "Yuxiang-Huang"
+        ],
+        "andrew_ids": [
+          "yh4"
+        ]
+      },
+      "admins": {
+        "github_usernames": [
+          "Yuxiang-Huang"
+        ],
+        "andrew_ids": [
+          "yh4"
+        ]
+      },
+      "repos": [
+        "go.scottylabs.org"
+      ],
+      "create_oidc_clients": true
+    },
     "goldador": {
       "name": "Goldador",
       "description": "Responsible for governance in Labrador.",
       "members": {
         "github_usernames": [
+          "NainaEnock",
           "SamEthanMathew",
+          "Yutai007",
           "Yuxiang-Huang",
           "a-varigonda",
+          "aanya21gupta",
+          "bmood25",
           "cahove",
+          "carolyne-chiang",
+          "davidx2-gif",
           "dishon949",
           "hanabenko",
+          "henhen1235",
+          "jahuang24",
+          "k3t6hup",
+          "kevin20074321",
+          "nicholascui225",
+          "rarangil",
+          "ryanwong05",
+          "s520y",
+          "stingray8",
+          "veriivy",
           "ziwei-che"
         ],
         "andrew_ids": [
+          "aanyag2",
+          "audreyz2",
           "avarigon",
+          "bmood",
+          "carolyne",
           "chove",
+          "davidx2",
           "hbenko",
+          "hhxu",
+          "jarretth",
+          "kasubash",
+          "ktan2",
+          "nainae",
+          "ncui2",
           "ndishon",
+          "rarangil",
+          "renfeirw",
+          "seany2",
           "semathew",
+          "tingrayc",
           "yh4",
+          "yutailon",
           "ziweiche"
         ]
       },
@@ -408,6 +672,142 @@
       "website": "meet.scottylabs.org",
       "server": "api.meet.scottylabs.org"
     },
+    "reserve-cmu": {
+      "name": "ReserveCMU",
+      "description": "ReserveCMU is a one-stop-shop website/app for all things related to reservations on CMU campus. Users can reserve any facilities or spaces on campus, including study spaces, music rooms, meeting rooms, sports facilities, etc.\n",
+      "members": {
+        "github_usernames": [
+          "amishigupta",
+          "bmood25",
+          "davidx2-gif",
+          "faribahnuha",
+          "nosleep32",
+          "sophiez3",
+          "sophiezxh"
+        ],
+        "andrew_ids": [
+          "amishig",
+          "bmood",
+          "davidx2",
+          "fmn",
+          "liweix",
+          "sophiez3",
+          "szhang4"
+        ]
+      },
+      "admins": {
+        "github_usernames": [
+          "bmood25",
+          "davidx2-gif"
+        ],
+        "andrew_ids": [
+          "bmood",
+          "davidx2"
+        ]
+      },
+      "repos": [
+        "ReserveCMU"
+      ],
+      "create_oidc_clients": false
+    },
+    "scotty-delivery": {
+      "name": "Scotty Delivery",
+      "description": "Scotty Delivery is a on-campus food delivery service, founded by students, operated by students, and serving students, faculty, and staff of our university",
+      "members": {
+        "github_usernames": [
+          "KeyaanMatrix",
+          "Yutai007",
+          "carolyne-chiang",
+          "cheezypegasus",
+          "didikana",
+          "dzhou08",
+          "ethanliu2026",
+          "k3t6hup",
+          "noe2971",
+          "riishp",
+          "ryanwong05",
+          "shainag03",
+          "stingray8",
+          "veriivy"
+        ],
+        "andrew_ids": [
+          "audreyz2",
+          "carolyne",
+          "charlie3",
+          "darisan",
+          "dhzhou",
+          "ethanlil",
+          "kasubash",
+          "keyaans",
+          "nchandy",
+          "renfeirw",
+          "rpachava",
+          "shainag",
+          "tingrayc",
+          "yutailon"
+        ]
+      },
+      "admins": {
+        "github_usernames": [
+          "Yutai007",
+          "carolyne-chiang",
+          "k3t6hup",
+          "ryanwong05",
+          "stingray8",
+          "veriivy"
+        ],
+        "andrew_ids": [
+          "audreyz2",
+          "carolyne",
+          "kasubash",
+          "renfeirw",
+          "tingrayc",
+          "yutailon"
+        ]
+      },
+      "repos": [
+        "Scotty-Delivery"
+      ],
+      "create_oidc_clients": true,
+      "website": "",
+      "server": ""
+    },
+    "scottycoffee": {
+      "name": "Scotty's Coffee",
+      "description": "A CMU-only platform designed to make networking between students feel less like collecting connections and more like having real conversations.",
+      "members": {
+        "github_usernames": [
+          "NainaEnock",
+          "aanya21gupta",
+          "janek0420",
+          "kzz9984",
+          "mambabhi",
+          "samad2084"
+        ],
+        "andrew_ids": [
+          "aanyag2",
+          "abhii",
+          "janekim",
+          "kzzhao",
+          "nainae",
+          "samad"
+        ]
+      },
+      "admins": {
+        "github_usernames": [
+          "NainaEnock",
+          "aanya21gupta"
+        ],
+        "andrew_ids": [
+          "aanyag2",
+          "nainae"
+        ]
+      },
+      "repos": [
+        "scotty-coffee"
+      ],
+      "create_oidc_clients": false
+    },
     "scottystack": {
       "name": "ScottyStack",
       "description": "Responsible for maintenance of ScottyLabs Full Stack Template",
@@ -460,24 +860,6 @@
       "website": "wiki.scottylabs.org",
       "server": "api.wiki.scottylabs.org"
     },
-    "cmuresearch": {
-      "name": "CMU Research",
-      "description": "The CMU Research team.",
-      "members": {
-        "github_usernames": [],
-        "andrew_ids": [
-          "bryung"
-        ]
-      },
-      "admins": {
-        "github_usernames": [],
-        "andrew_ids": [
-          "bryung"
-        ]
-      },
-      "repos": [],
-      "create_oidc_clients": true
-    },
     "cmuservice": {
       "name": "CMU Service",
       "description": "The CMU Service team.",
@@ -522,26 +904,6 @@
       "create_oidc_clients": true,
       "website": "collegecart.org",
       "server": "collegecart.org"
-    },
-    "cmustudy": {
-      "name": "CMU Study",
-      "description": "The CMU Study team.",
-      "members": {
-        "github_usernames": [],
-        "andrew_ids": [
-          "annadavi"
-        ]
-      },
-      "admins": {
-        "github_usernames": [],
-        "andrew_ids": [
-          "annadavi"
-        ]
-      },
-      "repos": [],
-      "create_oidc_clients": true,
-      "website": "study.scottylabs.org",
-      "server": "study.scottylabs.org"
     }
   }
 }
